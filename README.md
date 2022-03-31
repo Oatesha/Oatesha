@@ -4,4 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
+<div id = "badge">
+  <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+  
+</div>
