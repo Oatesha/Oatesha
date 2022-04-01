@@ -2,7 +2,7 @@
 
 
 <div id = "badge" align = "center">
-  <a href="www.linkedin.com/in/oatesharrison" target="_blank"><img alt="Harrison Oates | LinkedIn" src="https://img.shields.io/badge/LinkedIn-blueviolet?logo=linkedin&logoColor=white" /></a> &nbsp;
+  <a href="https://www.linkedin.com/in/oatesharrison/" target="_blank"><img alt="Harrison Oates | LinkedIn" src="https://img.shields.io/badge/LinkedIn-blueviolet?logo=linkedin&logoColor=white" /></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Oatesha&style=flat-square&color=blueviolet" alt=""/>
   
 </div>
