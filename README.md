@@ -26,7 +26,7 @@
 - :zap: In my free time, I solve problems on leetcode and read tech articles.
 
 
-- :mailbox:How to reach me: <a href="mailto:oatesha@gmail.com" target="_blank"><img alt="Harrison Oates | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+- :mailbox: How to reach me: <a href="mailto:oatesha@gmail.com" target="_blank"><img alt="Harrison Oates | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 ---
 
