@@ -3,7 +3,6 @@
 
 <div id = "badge" align = "center">
   <a href="https://www.linkedin.com/in/oatesharrison/" target="_blank"><img alt="Harrison Oates | LinkedIn" src="https://img.shields.io/badge/LinkedIn-blueviolet?logo=linkedin&logoColor=white" /></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Oatesha&style=flat-square&color=blueviolet" alt=""/>
   
 </div>
 
@@ -23,7 +22,7 @@
 - :seedling: Exploring netcode for game objects in unity by building a multiplayer arena FPS.
 
 
-- :zap: In my free time, I solve problems on leetcode and read tech articles.
+- :zap: In my free time, I go to the gym and read tech articles.
 
 
 - :mailbox: How to reach me: <a href="mailto:oatesha@gmail.com" target="_blank"><img alt="Harrison Oates | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
