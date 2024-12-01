@@ -16,10 +16,8 @@
 ---
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> About Me :
-- :telescope: I’m a recent software engineering graduate from UWA
 
-
-- :seedling: Exploring netcode for game objects in unity by building a multiplayer arena FPS.
+- :seedling: Trying to learn Vulkan
 
 
 - :zap: In my free time, I go to the gym and read tech articles.
