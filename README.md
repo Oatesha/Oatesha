@@ -13,15 +13,14 @@
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width="60"/> About Me :
+### <img src="https://i.gifer.com/4pJC.gif" width="60"/> About Me :
 
 I'm a passionate software engineer with a special interest in C++ and low level programming. Currently, I'm developing a real time ray traced voxel renderer using C++23 and Vulkan
 
-- :seedling: Trying to learn Vulkan
 
+- :seedling: Learning sparse data storage techniques for larger voxel worlds.
 
 - :zap: In my free time, I go to the gym and read tech articles.
-
 
 - :mailbox: How to reach me: <a href="mailto:oatesha@gmail.com" target="_blank"><img alt="Harrison Oates | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
