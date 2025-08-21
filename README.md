@@ -13,7 +13,7 @@
 
 ---
 
-### <img src="https://i.gifer.com/4pJC.gif" width="60"/> About Me :
+### 👋 About Me :
 
 I'm a passionate software engineer with a special interest in C++ and low level programming. Currently, I'm developing a real time ray traced voxel renderer using C++23 and Vulkan
 
