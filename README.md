@@ -1,13 +1,11 @@
-# Hello I'm Harrison Welcome! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
+# Hello I'm Harrison Welcome! <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30">
 
 <div id = "badge" align = "center">
   <a href="https://www.linkedin.com/in/oatesharrison/" target="_blank"><img alt="Harrison Oates | LinkedIn" src="https://img.shields.io/badge/LinkedIn-blueviolet?logo=linkedin&logoColor=white" /></a> &nbsp;
-  
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="300"/>
 </div>
 
 
@@ -15,7 +13,9 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> About Me :
+### <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width="60"/> About Me :
+
+I'm a passionate software engineer with a special interest in C++ and low level programming. Currently, I'm developing a real time ray traced voxel renderer using C++23 and Vulkan
 
 - :seedling: Trying to learn Vulkan
 
@@ -27,19 +27,13 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  
-</div>
+### 🛠️ Core Technical Skills
+
+*   **Languages:** C++ (Proficient, C++17/20/23), C, C#, Python, GLSL
+*   **Graphics APIs:** Vulkan, OpenGL
+*   **Specializations:** Real-Time Rendering, Systems Programming, GPU Architecture, Memory Management, Performance Optimisation
+*   **Developer Tools:** Git, Docker, Linux, Visual Studio, VS Code, RenderDoc, Nsight Graphics
+
+<br>
 
 
